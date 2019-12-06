@@ -68,7 +68,7 @@ public class MyNode {
 
   /**
    * Sets the right child of this node.
-   *
+   * vi tycker väl sådär om konfig uppgifterna.
    * @param right The new right child of this node.
    */
   public void setRightChild(MyNode right) {
