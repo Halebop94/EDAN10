@@ -4,7 +4,7 @@ import tree.MyNode;
 
 /**
  * This is a binary search tree. The tree holds integer valued nodes.
- *
+ * Hej hej hej fred är väldigt sen idag. Han tycker att jag är långsam. nu gör vi ännu fler ändringar till denna raden. 
  * @author Torbjorn Ekman
  * @see MyNode
  */
@@ -78,4 +78,3 @@ public class MyTree {
     return root.calcSize();
   }
 }
-
