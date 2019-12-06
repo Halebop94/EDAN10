@@ -2,7 +2,7 @@ package tree;
 
 /**
  * This is a node in a binary search tree. The node holds an integer value.
- * Nu vill hanna lägga till kommentarer för att hon är så cool.
+ *  Fred vill skriva en  kommentar.
  * @author Torbjorn Ekman
  * @see MyTree
  */
@@ -32,7 +32,7 @@ public class MyNode {
 
   /**
    * Sets the vlaue of this node.
-   *
+   * Eller två!
    * @param value The new value of this node.
    */
   public void setValue(int value) {
@@ -41,7 +41,7 @@ public class MyNode {
 
   /**
    * Gets the father of this node.
-   *
+   * Sen insåg han att han vill lägga till en till för att skapa en commit till!
    * @return The current father of this node.
    */
   public MyNode getFather() {
@@ -68,7 +68,7 @@ public class MyNode {
 
   /**
    * Sets the right child of this node.
-   * 
+   *
    * @param right The new right child of this node.
    */
   public void setRightChild(MyNode right) {
