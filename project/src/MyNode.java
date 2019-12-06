@@ -68,7 +68,7 @@ public class MyNode {
 
   /**
    * Sets the right child of this node.
-   *
+   * vi tycker väl sådär om konfig uppgifterna.
    * @param right The new right child of this node.
    */
   public void setRightChild(MyNode right) {
@@ -86,7 +86,7 @@ public class MyNode {
 
   /**
    * Sets the left child of this node.
-   *
+   * Detta är för att försöka skapa en mergetracking
    * @param left The new left child of this node.
    */
   public void setLeftChild(MyNode left) {
@@ -96,7 +96,7 @@ public class MyNode {
   /**
    * Calculate the size this subtree. Recursively calculate the size of the
    * subtree in which this node is the root.
-   *
+   * Hon gillar att skriva kommentarer så hon skapar några till
    * @return The size of the subtree.
    */
   public int calcSize() {
