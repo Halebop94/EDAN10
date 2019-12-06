@@ -96,7 +96,7 @@ public class MyNode {
   /**
    * Calculate the size this subtree. Recursively calculate the size of the
    * subtree in which this node is the root.
-   *
+   * Hon gillar att skriva kommentarer så hon skapar några till
    * @return The size of the subtree.
    */
   public int calcSize() {
