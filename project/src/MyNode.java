@@ -2,7 +2,7 @@ package tree;
 
 /**
  * This is a node in a binary search tree. The node holds an integer value.
- *
+ * Nu vill hanna lägga till kommentarer för att hon är så cool.
  * @author Torbjorn Ekman
  * @see MyTree
  */
@@ -14,7 +14,7 @@ public class MyNode {
 
   /**
    * Class constructor initializing this node's value.
-   * 
+   *
    * @param value The value of this node.
    */
   public MyNode(int value) {
@@ -86,7 +86,7 @@ public class MyNode {
 
   /**
    * Sets the left child of this node.
-   *
+   * Detta är för att försöka skapa en mergetracking
    * @param left The new left child of this node.
    */
   public void setLeftChild(MyNode left) {
@@ -109,4 +109,4 @@ public class MyNode {
     }
     return cnt;
   }
-} 
+}
