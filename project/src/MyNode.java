@@ -41,7 +41,7 @@ public class MyNode {
 
   /**
    * Gets the father of this node.
-   *
+   * Sen insåg han att han vill lägga till en till för att skapa en commit till!
    * @return The current father of this node.
    */
   public MyNode getFather() {
