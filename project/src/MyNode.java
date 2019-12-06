@@ -59,7 +59,7 @@ public class MyNode {
 
   /**
    * Gets the right child of this node.
-   * 
+   * vad tycker vi om konfig?
    * @return The current right child of this node.
    */
   public MyNode getRightChild() {
