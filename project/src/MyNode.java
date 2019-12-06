@@ -50,7 +50,7 @@ public class MyNode {
 
   /**
    * Sets the father of this node.
-   *
+   * ohlalala
    * @param father The new father of this node.
    */
   public void setFather(MyNode father) {
@@ -59,7 +59,7 @@ public class MyNode {
 
   /**
    * Gets the right child of this node.
-   *
+   * 
    * @return The current right child of this node.
    */
   public MyNode getRightChild() {
