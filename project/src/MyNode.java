@@ -2,7 +2,8 @@ package tree;
 
 /**
  * This is a node in a binary search tree. The node holds an integer value.
- *
+ *  Fred och hanna är bäst!
+ * Även om fred är sen
  * @author Torbjorn Ekman
  * @see MyTree
  */
@@ -14,7 +15,7 @@ public class MyNode {
 
   /**
    * Class constructor initializing this node's value.
-   * 
+   *
    * @param value The value of this node.
    */
   public MyNode(int value) {
@@ -109,4 +110,4 @@ public class MyNode {
     }
     return cnt;
   }
-} 
+}
